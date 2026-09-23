@@ -57,8 +57,9 @@ I thrive on collaborating with clients, designers, and backend teams and now I c
 
 ### 💼 Featured Projects
 
+- **[Student Management API](https://github.com/lexxAsido/schoolApp)** — REST API (Node.js, Express, MongoDB, Mongoose) with proper error handling: fixed 8 real bugs including invalid ID handling, validation, and duplicate-email conflicts — deployed on Render
 - **[Nolt Finance](https://apps.apple.com/app/nolt/id1577549857)** — Cross-platform fintech app (React Native, REST APIs, TypeScript): wallets, loans, investments, bill payments, biometric verification (Dojah), Paystack integration. *Successfully built, approved, and deployed to the App Store & Play Store; currently offline pending CBN regulatory approval.*
-- **[TipNGoal](https://tip-n-goal-web.vercel.app/)** — Real-time sports & lottery results app (React Native, React & Next.js, Firebase)
+- **[TipNGoal](https://tip-n-goal-web.vercel.app/)** — Real-time sports App (React Native, React & Next.js, Firebase, Node Js,Cloud Functions)
 - **[EHR Mobile App](https://expo.dev/accounts/honcholex14/projects/OHF-EHR/builds/1b28bf8f-dbae-4cf8-8388-493f97428c25)** — Healthcare records management app (React Native, TypeScript,REST APIs )
 - **BonAfri** — Local services marketplace app (React Native, NativeWind, TypeScript)
 - **Kreados** — eCommerce mobile app (React Native, MongoDB, Express, REST APIs, TypeScript)
