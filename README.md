@@ -24,7 +24,7 @@ I've recently added **backend development** to my stack. So far I've learned:
 - Sending emails to users with **Nodemailer**
 - Implementing **user authentication**, generating **tokens (JWT)**, and handling **OTP** verification flows
 
-I thrive on collaborating with clients, designers, and backend teams — and now I can own more of that stack myself, end to end.
+I thrive on collaborating with clients, designers, and backend teams and now I can own more of that stack myself, end to end.
 
 ---
 
@@ -57,7 +57,7 @@ I thrive on collaborating with clients, designers, and backend teams — and now
 
 ### 💼 Featured Projects
 
-- **[Nolt Finance](https://apps.apple.com/app/nolt/id1577549857)** — Cross-platform fintech app (React Native, REST APIs, TypeScript): wallets, loans, investments, bill payments, biometric verification (Dojah), Paystack integration
+- **[Nolt Finance](https://apps.apple.com/app/nolt/id1577549857)** — Cross-platform fintech app (React Native, REST APIs, TypeScript): wallets, loans, investments, bill payments, biometric verification (Dojah), Paystack integration. *Successfully built, approved, and deployed to the App Store & Play Store; currently offline pending CBN regulatory approval.*
 - **[TipNGoal](https://tip-n-goal-web.vercel.app/)** — Real-time sports & lottery results app (React Native, React & Next.js, Firebase)
 - **[EHR Mobile App](https://expo.dev/accounts/honcholex14/projects/OHF-EHR/builds/1b28bf8f-dbae-4cf8-8388-493f97428c25)** — Healthcare records management app (React Native, TypeScript,REST APIs )
 - **BonAfri** — Local services marketplace app (React Native, NativeWind, TypeScript)
