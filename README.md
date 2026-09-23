@@ -2,9 +2,9 @@
 
 I'm **Asido Alexandar**, a **React Native & Full-Stack Developer** based in Nigeria. I build seamless, user-centered cross-platform mobile apps and am now expanding into backend development to ship complete, end-to-end products.
 
-- 🔭 I'm currently building **TipNGoal** (sports & lottery app) and continuing backend feature work across my mobile projects
+- 🔭 I'm currently maintaining, fixing bugs, and improving user experience on **TipNGoal** (live on iOS, Android & web), plus applying backend skills across my mobile projects
 - 🌱 I'm currently learning **backend development** — Node.js, Express, REST API design, and deployment
-- 👯 I'm looking to collaborate on full-stack mobile apps that need solid backend architecture
+- 👯 I'm looking to collaborate on full-stack mobile apps that need solid backend architecture.
 - 💬 Ask me about **React Native, Expo, REST APIs, or Node.js/Express backends**
 - 📫 How to reach me: [alexandaras2015@gmail.com](mailto:alexandaras2015@gmail.com) | [LinkedIn](https://www.linkedin.com/in/alexandar-asido-b06742359)
 - 🌐 Portfolio: [alexportfolio-murex.vercel.app](https://alexportfolio-murex.vercel.app/)
